@@ -45,3 +45,5 @@ Maintainability: কোড এবং আর্কিটেকচার যেন
 </p>
 
 🔗 [**আরও পড়ুন: ডেটাবেস ইনডেক্সিং**](./sections/client-server-architecture/README.md)
+
+(চলমান)
