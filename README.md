@@ -1,6 +1,6 @@
 # System Design in Bengali
 
-সিস্টেম ডিজাইন শেখার এই যাত্রায় আমি যা শিখছি, তা এখানে সহজ বাংলায় লিপিবদ্ধ করছি। ভালো লাগলে star, watch কিংবা fork ক্লিক করে রাখতে পারেন।
+সিস্টেম ডিজাইন শেখার এই যাত্রায় আমি যা শিখছি বা শিখেছি, তা এখানে সহজ বাংলায় লিপিবদ্ধ করছি। ভালো লাগলে star, watch কিংবা fork ক্লিক করে রাখতে পারেন।
 
 <p align="center">
   <img src="./images/system-design-banner.png" alt="System Design Wallpaper">
