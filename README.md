@@ -44,6 +44,6 @@
   <img src="./sections/client-server-architecture/images/client-server-architecture.png" alt="Client Server Architecture">
 </p>
 
-🔗 [**আরও পড়ুন: ডেটাবেস ইনডেক্সিং**](./sections/client-server-architecture/README.md)
+🔗 [**আরও পড়ুন: Client Server Architecture**](./sections/client-server-architecture/README.md)
 
 (চলমান)
