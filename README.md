@@ -14,6 +14,7 @@
 ### সূচিপত্র
 
 - [Section 1: System Design](#section-1-system-design)
+- [Section 2: Client Server Architecture](#section-2-client-server-architecture)
 
 (চলমান)
 
@@ -35,3 +36,12 @@ Reliability: ভুল বা ত্রুটি হলেও সিস্টে
 Maintainability: কোড এবং আর্কিটেকচার যেন ভবিষ্যতে সহজে পরিবর্তন বা আপডেট করা যায়।
 
 (আমরা এখানে শুধু মাত্র Backend Engineering related System Design নিয়ে আলোচনা করবো)
+
+## Section 2: Client Server Architecture
+সিস্টেম ডিজাইনের দুনিয়ায় Client-Server Architecture হলো সবচেয়ে জনপ্রিয় মডেল। এখানে মূলত একটি সেন্ট্রাল Server থাকে যা সব রিসোর্স এবং ডেটা ম্যানেজ করে, আর অনেকগুলো Clients সেই সার্ভার থেকে সার্ভিস বা ডেটা রিকোয়েস্ট করে। ক্লায়েন্টরা সাধারণত ইউজার ইন্টারফেস বা ইন্টারঅ্যাকশন হ্যান্ডেল করে, আর সার্ভার সামলায় প্রসেসিং এবং স্টোরেজ।
+
+<p align="center">
+  <img src="./sections/client-server-architecture/images/client-server-architecture.png" alt="Client Server Architecture">
+</p>
+
+🔗 [**আরও পড়ুন: ডেটাবেস ইনডেক্সিং**](./sections/client-server-architecture/README.md)
