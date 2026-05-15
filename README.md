@@ -15,7 +15,7 @@
 
 - [Section 1: System Design](#section-1-system-design)
 - [Section 2: Client Server Architecture](#section-2-client-server-architecture)
-- [Section 3: Networking Basics](#section-3-Networking-Basics)
+- [Section 3: Networking Basics](#section-3-networking-basics)
 
 (চলমান)
 
