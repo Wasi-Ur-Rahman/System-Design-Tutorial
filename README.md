@@ -15,6 +15,7 @@
 
 - [Section 1: System Design](#section-1-system-design)
 - [Section 2: Client Server Architecture](#section-2-client-server-architecture)
+- [Section 3: Networking Basics](#section-3-Networking-Basics)
 
 (চলমান)
 
@@ -45,5 +46,13 @@
 </p>
 
 🔗 [**আরও পড়ুন: Client Server Architecture**](./sections/client-server-architecture/README.md)
+
+## Section 3: Networking Basics
+<p align="center">
+  <img src="./sections/networking-basics/images/networking-basics.png" alt="Networking Basics Wallpaper">
+</p>
+সিস্টেম ডিজাইন শেখার সময় Networking Basics খুব গুরুত্বপূর্ণ। কারণ আমরা যখন একটি scalable application design করি, তখন client কীভাবে server-এ request পাঠায়, DNS কীভাবে domain name resolve করে, IP address কীভাবে destination খুঁজে পায়, TCP/UDP কীভাবে data transport করে—এসব না বুঝলে load balancer, CDN, reverse proxy, API gateway, microservice communication, timeout, latency, retry, connection pooling—এসব concept গভীরভাবে বোঝা কঠিন হয়ে যায়।
+
+🔗 [**আরও পড়ুন: Networking Basics**](./sections/networking-basics/README.md)
 
 (চলমান)
